@@ -27,4 +27,4 @@ A python-based DDoS detection and mitigation system that monitors raw TCP traffi
 - Allows IPs showing valid SSL handshakes
 
 ## Note
-Built for educational and research purposes to simulate and mitigate DDoS attacks at the network layer
+Built for educational and research purposes to simulate and mitigate DDoS attacks at the transport layer
